@@ -65,3 +65,8 @@ This repository explores Graph Neural Networks (GNNs) and graph embedding techni
     Metrics: Accuracy, Precision, Recall, F1-Score, AUC-ROC
     Graph-specific Metrics: Node classification accuracy, link prediction accuracy
     Visualization: Embedding spaces and graph structures
+
+💡 Contributing
+
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new applications.
+
