@@ -58,3 +58,10 @@ This repository explores Graph Neural Networks (GNNs) and graph embedding techni
     Optimization and Hyperparameter Tuning: Optuna
     Data Processing and Analysis: Pandas, NetworkX, Scikit-learn
     Visualization: NetworkX, PyVis, Matplotlib
+
+
+📈 Performance Evaluation
+
+    Metrics: Accuracy, Precision, Recall, F1-Score, AUC-ROC
+    Graph-specific Metrics: Node classification accuracy, link prediction accuracy
+    Visualization: Embedding spaces and graph structures
