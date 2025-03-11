@@ -50,3 +50,11 @@ This repository explores Graph Neural Networks (GNNs) and graph embedding techni
     Collaborative Filtering with GNNs: Enhance recommendations through user-item graph representation.
     Knowledge Graph Embeddings: Integrate domain knowledge to improve predictions.
 
+
+⚙️ Frameworks and Libraries
+
+    Deep Learning Libraries: PyTorch, TensorFlow
+    Graph Libraries: DGL (Deep Graph Library), PyTorch Geometric (PyG)
+    Optimization and Hyperparameter Tuning: Optuna
+    Data Processing and Analysis: Pandas, NetworkX, Scikit-learn
+    Visualization: NetworkX, PyVis, Matplotlib
