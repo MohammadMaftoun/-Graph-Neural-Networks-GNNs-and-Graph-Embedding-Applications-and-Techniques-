@@ -2,6 +2,8 @@
 
 This repository explores Graph Neural Networks (GNNs) and graph embedding techniques, showcasing their applications across various domains, including Natural Language Processing (NLP), tabular data analysis, computer vision, recommender systems, drug discovery, social network analysis, and more.
 
+![GEM](https://memgraph.com/_next/image?url=%2Fimages%2Fblog%2Fintroduction-to-node-embedding%2Fcover.png&w=3840&q=75)
+
 ✨ Key Features
 
     Comprehensive GNN Architectures: Implementations of popular and cutting-edge GNN models, including:
