@@ -28,7 +28,7 @@ This repository explores Graph Neural Networks (GNNs) and graph embedding method
 1. 💬 Natural Language Processing (NLP)
 
     Relation Extraction and Knowledge Graphs: Identify relationships between entities in text.
-    Text Classification and Sentiment Analysis: Model semantic relationships for improved performance.
+    Text Classification and Sentiment Analysis: Model semantic relationships for enhanced performance.
     Question Answering and Chatbots: Enhance reasoning through graph-based contexts.
 
 2. 🗃️ Tabular Data
@@ -51,6 +51,8 @@ This repository explores Graph Neural Networks (GNNs) and graph embedding method
 
     Collaborative Filtering with GNNs: Enhance recommendations through user-item graph representation.
     Knowledge Graph Embeddings: Integrate domain knowledge to improve predictions.
+
+![GNN](https://www.i-aida.org/wp-content/uploads/2024/04/GNNs.png)
 
 
 ⚙️ Frameworks and Libraries
