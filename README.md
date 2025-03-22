@@ -6,7 +6,7 @@ This repository explores Graph Neural Networks (GNNs) and graph embedding method
 
 ✨ Key Features
 
-    Comprehensive GNN Architectures: Implementations of popular and cutting-edge GNN models, including:
+    Comprehensive GNN Architectures: Implementations of popular and cutting-edge GNN models, involving:
         Graph Convolutional Networks (GCN)
         Graph Attention Networks (GAT)
         GraphSAGE (Graph Sample and Aggregation)
