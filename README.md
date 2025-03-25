@@ -19,7 +19,7 @@ This repository explores Graph Neural Networks (GNNs) and graph embedding method
         Node2Vec and DeepWalk
         Graph Autoencoders (GAE)
         Variational Graph Autoencoders (VGAE)
-        LINE (Large-scale Information Network Embedding)
+        LINE (Large-Scale Information Network Embedding)
         HOPE (High-Order Proximity Embedding)
 
 
