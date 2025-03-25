@@ -1,6 +1,7 @@
 # -Graph-Neural-Networks-GNNs-and-Graph-Embedding-Applications-and-Techniques-
 
-This repository explores Graph Neural Networks (GNNs) and graph embedding methods, showcasing their applications across various domains, including Natural Language Processing (NLP), tabular data analysis, computer vision, recommender systems, drug discovery, social network analysis, and more.
+This repository explores Graph Neural Networks (GNNs) and graph embedding methods, showcasing their applications across various domains, including Natural Language Processing (NLP), tabular data analysis, computer vision, recommender systems, drug discovery, social network analysis, and more. Node classification is to assign a class label to each node in a graph based on the rules learnt from the labelled nodes.
+Intuitively, “similar” nodes have the same labels. It is one of the most common applications discussed in graph embedding literature. In general, each node is embedded as a low-dimensional vector. Node classification is conducted by applying a classifier on the set of labelled node embedding for training.
 
 ![GEM](https://memgraph.com/_next/image?url=%2Fimages%2Fblog%2Fintroduction-to-node-embedding%2Fcover.png&w=3840&q=75)
 
