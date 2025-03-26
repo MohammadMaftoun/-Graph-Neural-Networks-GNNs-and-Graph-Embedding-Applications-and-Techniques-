@@ -67,7 +67,7 @@ Intuitively, “similar” nodes have the same labels. It is one of the most com
 
 📈 Performance Evaluation
 
-    Metrics: Accuracy, Precision, Recall, F1-Score, AUC-ROC
+    Metrics: Accuracy, Precision, Recall, F1-score, AUC-ROC
     Graph-specific Metrics: Node classification accuracy, link prediction accuracy
     Visualization: Embedding spaces and graph structures
 
