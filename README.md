@@ -50,7 +50,7 @@ Intuitively, “similar” nodes have the same labels. It is one of the most com
 
 5. 📊 Recommender Systems
 
-    Collaborative Filtering with GNNs: Enhance recommendations through user-item graph representation.
+    Collaborative Filtering with GNNS: Enhance recommendations through user-item graph representation.
     Knowledge Graph Embeddings: Integrate domain knowledge to improve predictions.
 
 ![GNN](https://www.i-aida.org/wp-content/uploads/2024/04/GNNs.png)
