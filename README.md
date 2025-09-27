@@ -73,5 +73,5 @@ Intuitively, “similar” nodes have the same labels. It is one of the most com
 
 💡 Contributing
 
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new applications.
+Contributions are welcome! Feel free to open issues, submit pull requests, or offer new applications.
 
